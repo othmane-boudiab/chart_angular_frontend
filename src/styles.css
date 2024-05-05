@@ -1,0 +1,11 @@
+/* You can add global styles to this file, and also import other style files */
+
+
+path.highcharts-legend-nav-active {
+    fill: #3CB788 !important;
+}
+
+.highcharts-credits {
+    display: none;
+  }
+  
